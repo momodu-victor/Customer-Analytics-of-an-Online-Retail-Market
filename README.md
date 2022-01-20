@@ -1,4 +1,4 @@
-# Customer-Analytics-of-an-Online-Retail-Market-with-RFM-and-Kmeans
+# Understanding consumer behavior using RFM analysis and K-Means clustering: What is the likelihood of a customer leaving the online retail market?
 The Business-to-Consumer (B2C) Online Retail realm is by nature a competitive environment that is currently facing high levels of investment to attract new customers while focusing on customer loyalty and profitability to increase market share. 
 
 Hence it is crucial for companies to understand what the underlying causes behind a customer leaving the business. 
