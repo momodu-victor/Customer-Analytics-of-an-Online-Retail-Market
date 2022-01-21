@@ -1,4 +1,6 @@
 # Understanding consumer behavior using RFM analysis and K-Means clustering: What is the likelihood of a customer leaving the online retail market?
+
+# Motivation
 The Business-to-Consumer (B2C) Online Retail realm is by nature a competitive environment that is currently facing high levels of investment to attract new customers while focusing on customer loyalty and profitability to increase market share. 
 
 Hence it is crucial for companies to understand what the underlying causes behind a customer leaving the business. 
@@ -18,3 +20,6 @@ Each customer is assigned a score to predict customers that are at risk to churn
 - Where are our new customers?
 
 This project explores which customers are truly at risk to churn and it provides insights on which target incentives would be useful for customers to stay and extend the customer’s lifetime value (CLV) in the online retail market.
+
+
+# Understanding consumer behavior using RFM analysis and K-Means clustering: What is the likelihood of a customer leaving the online retail market?
