@@ -140,3 +140,11 @@ A user interface dashboard is created with Microsoft Power BI which can be share
 
 - To view this dashboard,kindly download Microsoft PowerBI Desktop: https://powerbi.microsoft.com/en-us/downloads/
 
+## Data Integration
+
+In order to build a user interface for the cusomer segments, we would need to connect the datasource to the visualization tool. Hence, there is a need for **"Data Integration"**
+
+By connecting dashboard directly to the datasource, the data and visuals on the dashboard would update real time as data is ingested into the SQLite database.
+
+Here is the documentation of the process: https://github.com/momodu-victor/Customer-Analytics-of-an-Online-Retail-Market-with-RFM-and-Kmeans-clustering/blob/7ae8078308fb39e227c050ec1a18539b633ecb0a/User_Interface_Documentation.ipynb
+
