@@ -111,17 +111,17 @@ This Online Retail data set contains all the transactions occurring for a UK-bas
 
 - After performing some necessary pre-processing steps, the data is loaded and stored into an SQL database. For this project,we would be using the **SQLite** database which is a software library that provides a relational database management system.
 
-- For the front end of this project, Microsoft Power BI Desktop application is used to build an interactive dashboard which can aid data-driven decision making for respective stakeholders and end users.
+- For the front end of this project, **Microsoft Power BI** Desktop application is used to build an interactive dashboard which can aid data-driven decision making for respective stakeholders and end users.
 
 **Python packages used in project**
 
-numpy
-pandas
-matplotlib
-seaborn
-plotly
-math
-datetime
-squarify
-scipy
-sklearn
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- plotly
+- math
+- datetime
+- squarify
+- scipy
+- sklearn
