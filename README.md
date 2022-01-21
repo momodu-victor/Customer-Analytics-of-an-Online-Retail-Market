@@ -61,3 +61,30 @@ Every month active customer base can be passed into RFM + Kmeans Model to return
 The segments derived from the RFM Analysis is visualized in a Tree Map.
 
 The unsupervised learning model, and choosen suitable number of clusters is visualized using a 3D plot.
+
+# Data Retrieval
+The data set for this project “Online Retail Data Set” is retrieved ina csv format from the “UCI Machine Learning Repository”. The UCI Machine Learning Repository is a collection of databases, domain theories, and data generators that are used by the machine learning community for the empirical analysis of machine learning algorithms. Since 1987, it has been widely used by students, educators, and researchers all over the world as a primary source of machine learning data sets. As an indication of the impact of the archive, it has been cited over 1000 times, making it one of the top 100 most cited "papers" in all of computer science.
+
+This Online Retail data set contains all the transactions occurring for a UK-based and registered, non-store online retail between 01/12/2010 and 09/12/2011.The company mainly sells unique all-occasion gift-ware. Many customers of the company are wholesalers.
+
+**Attribute Information**:
+
+- **InvoiceNo**: The Invoice number is a 6-digit integral number uniquely assigned to each transaction. If this code starts with the letter 'c', it indicates a cancellation. It is a string data type.
+
+- **StockCode**: This is the product (item) code. It is a 5-digit integral number uniquely assigned to each distinct product.
+
+- **Description**: Product (item) name. It is a string data type.
+
+- **Quantity**: The quantities of each product (item) per transaction. It is a numeric data type.
+
+- **InvoiceDate**: The day and time when a transaction was generated. It is a datetime data type.
+
+- **UnitPrice**: This is the product price per unit in Euros(€). It is a numeric data type. It is a string data type.
+
+- **CustomerID**: This is a 5-digit integral number uniquely assigned to each customer.
+
+- **Country**: Country name. Nominal. The name of the country where a customer resides.
+
+**Source**: Dr Daqing Chen, Director: Public Analytics group. chend '@' lsbu.ac.uk, School of Engineering, London South Bank University, London SE1 0AA, UK.
+
+**Link**: https://archive.ics.uci.edu/ml/datasets/online+retail
