@@ -21,27 +21,6 @@ Each customer is assigned a score to predict customers that are at risk to churn
 
 This project explores which customers are truly at risk to churn and it provides insights on which target incentives would be useful for customers to stay and extend the customer’s lifetime value (CLV) in the online retail market.
 
-# Tools and Libraries used for the Project
-
-- The Jupyter notebook environment (free), with Python 3.7 or higher will be used as the python integrated development environment (IDE) to compile all codes used for data preprocessing and data analysis steps.
-
-- After performing some necessary pre-processing steps, the data is loaded and stored into an SQL database. For this project,we would be using the **SQLite** database which is a software library that provides a relational database management system.
-
-- For the front end of this project, Microsoft Power BI Desktop application is used to build an interactive dashboard which can aid data-driven decision making for respective stakeholders and end users.
-
-**Python packages used in project**
-
-numpy
-pandas
-matplotlib
-seaborn
-plotly
-math
-datetime
-squarify
-scipy
-sklearn
-
 # Project Plan: Identify the tasks to be done to answer the question
 
 ## a. Business Understanding:
@@ -125,3 +104,24 @@ This Online Retail data set contains all the transactions occurring for a UK-bas
 **Source**: Dr Daqing Chen, Director: Public Analytics group. chend '@' lsbu.ac.uk, School of Engineering, London South Bank University, London SE1 0AA, UK.
 
 **Link**: https://archive.ics.uci.edu/ml/datasets/online+retail
+
+# Tools and Libraries used for the Project
+
+- The Jupyter notebook environment (free), with Python 3.7 or higher will be used as the python integrated development environment (IDE) to compile all codes used for data preprocessing and data analysis steps.
+
+- After performing some necessary pre-processing steps, the data is loaded and stored into an SQL database. For this project,we would be using the **SQLite** database which is a software library that provides a relational database management system.
+
+- For the front end of this project, Microsoft Power BI Desktop application is used to build an interactive dashboard which can aid data-driven decision making for respective stakeholders and end users.
+
+**Python packages used in project**
+
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+math
+datetime
+squarify
+scipy
+sklearn
