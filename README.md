@@ -125,3 +125,18 @@ This Online Retail data set contains all the transactions occurring for a UK-bas
 - squarify
 - scipy
 - sklearn
+
+## Front End Visualization
+
+A user interface dashboard is created with Microsoft Power BI which can be shared with country sales managers so they can be guided to the customers on the different segments and take specific actions on them.
+
+- First, the data in the SQLite database is then connected to the visulazation tool(PowerBI) using an ODBC data connection and connect to a predefined “ODBC DNS”.
+
+- Then a dashboard is created with Microsoft Power BI which can be shared with country sales managers so they can be guided to the customers on the different segments and take specific actions on them.
+
+- This Microsoft Power BI dashboard can be shared with stakeholders in an enterprise environment as a web app.
+
+- The dashboard file can be downloaded here:https://github.com/momodu-victor/Customer-Analytics-of-an-Online-Retail-Market-with-RFM-and-Kmeans-clustering/blob/9acf2fdd0c43519afe43ca310237420c81fa3c53/Customer%20Insight%20Dashboard%20(User%20Interface).pbix
+
+- To view this dashboard,kindly download Microsoft PowerBI Desktop: https://powerbi.microsoft.com/en-us/downloads/
+
